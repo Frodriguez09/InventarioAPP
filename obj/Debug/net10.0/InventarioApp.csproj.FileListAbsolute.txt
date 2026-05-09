@@ -12,3 +12,4 @@
 /home/fro/Documentos/Inventario/InventarioApp/obj/Debug/net10.0/InventarioApp.pdb
 /home/fro/Documentos/Inventario/InventarioApp/obj/Debug/net10.0/InventarioApp.genruntimeconfig.cache
 /home/fro/Documentos/Inventario/InventarioApp/obj/Debug/net10.0/ref/InventarioApp.dll
+/home/fro/Documentos/Inventario/InventarioApp/obj/Debug/net10.0/InventarioApp.sourcelink.json
